@@ -1,4 +1,4 @@
-# Hi, I'm Joshua Stein 👋
+# Hello 👋
 
 ## 🔬 About Me
 

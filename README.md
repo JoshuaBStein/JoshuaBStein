@@ -1,7 +1,5 @@
 # Hello 👋
 
-## 🔬 About Me
-
 I'm a **PhD Candidate in Chemistry and Chemical Biology** with a specialized skillset in **lipid nanoparticle (LNP) chemistry**—from compound identification and formulation development through preclinical studies. My research bridges classical pharmaceutical chemistry with modern AI/ML techniques to accelerate drug delivery platform design.
 
 I'm passionate about leveraging computational tools to solve complex problems in drug discovery, formulation science, and metabolomics.
